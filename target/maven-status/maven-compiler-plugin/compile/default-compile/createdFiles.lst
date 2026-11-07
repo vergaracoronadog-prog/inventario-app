@@ -1,0 +1,4 @@
+com\uniremington\inventario\repository\ProductoRepository.class
+com\uniremington\inventario\service\InventarioService.class
+com\uniremington\inventario\service\NotificadorService.class
+com\uniremington\inventario\model\Producto.class
